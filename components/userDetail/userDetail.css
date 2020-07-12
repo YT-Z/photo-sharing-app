@@ -1,0 +1,7 @@
+.userDetail_one_line, .userDetail_link{
+    font-family: Arial;
+    padding: 10px;
+}
+.userDetail_key{
+    font-weight: bold;
+}

@@ -1,0 +1,32 @@
+body{
+    font-family: Arial;
+}
+.userList_link{
+    text-decoration: none;
+    margin-left: 15px;
+}
+.userList_activity_photo{
+    height: 40px;
+    width: auto;
+    margin: 5px;
+}
+.userList_activity_horizontal_flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.userList_activity_activity{
+    font-family: Arial;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: gray;
+}
+.userList_vertical_flex{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+

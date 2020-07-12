@@ -1,0 +1,91 @@
+body{
+    font-family: Arial;
+    
+}
+paper{
+    padding: 5px;
+}
+.userPhotos_container{
+    margin: 5px;
+    margin-bottom: 20px;
+}
+.userPhotos_photo{
+    width: 100%;
+    height: auto; 
+}
+.userPhotos_photo_create_time,.userPhotos_comment_create_time{
+    color: gray;
+    font-size: 10px;
+    margin-bottom: 5px;
+}
+
+.userPhotos_no_comments{
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+.userPhotos_comments_title{
+    font-weight: bold;
+    margin-top: 5px;
+    font-size: 14px;
+    color: gray;
+}
+
+.userPhotos_comment_creator{
+    text-decoration: none;
+    font-family: Roboto;
+    color: 	#FF4D4D;
+  
+    font-size: 14px;
+    margin-top: 5px;
+    font-weight: bold;
+}
+.userPhotos_comment_text{
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+.userPhotos_comment_container{
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+}
+.userPhotos_comment_input{
+    width: 95%;
+    height: 80px;
+    margin: 5px;
+}
+.userPhotos_comment_button{
+    align-self: flex-end;
+    width: fit-content;
+}
+.userPhotos_comment_button_container{
+    margin-right: 20px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.userPhotos_time_like_favorite_container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.userPhotos_like_favorite_wrapper{
+    display: flex;
+    flex-direction: row;
+}
+.userPhotos_like_icon_wrapper{
+    display: flex;
+    flex-direction: column;
+}
+.userPhotos_like_icon_inner_wrapper{
+    width: fit-content;
+}
+.userPhotos_favorite_icon{
+    width: fit-content;
+    height: fit-content;
+    align-self: start;
+}
+.userPhotos_favorited, .userPhotos_liked{
+    color: #FF4D4D
+}

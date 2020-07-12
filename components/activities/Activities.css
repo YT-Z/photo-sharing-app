@@ -1,0 +1,30 @@
+.activities_refresh_wrapper{
+    width: inherit;
+    height: fit-content;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.activities_photo{
+    width: 100px;
+    height: auto;
+    margin-right: 30px;
+}
+.activities_horizontal_flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.activities_activity{
+    font-family: Arial;
+    padding-bottom: 5px;
+}
+.activities_time{
+    color: gray;
+    font-size: smaller;
+}
+.activities_wrapper{
+    padding: 10px;
+    margin: 10px;
+}

@@ -1,0 +1,72 @@
+Project #8 - Submission form
+
+Please fill in this form and submit it with your project #8.
+
+Enter no more than 5 user stories that you did for the assignment that you would like to be
+graded on. For each story include the following information:
+
+
+Story number and name: 4 - Activity feed
+Story points: 4
+Brief description to see the story in action: 
+Click on a link on the toolbar labelled "Activities" and view the 5 most recent activities 
+that have happened on the web site in reverse chronological order (most recent at the top).
+Click on a refresh icon to trigger an update.
+-------------------------------------------------------------------------------------------
+
+Story number and name: 6 - Photo like votes
+Story points: 4
+Brief description to see the story in action: 
+Click on a thumbsup icon to like a photo. The icon will change into thumbsdown if the user 
+has liked the photo. Click on the thumbsdown icon to unlike the photo. Next to the icon, 
+it displays the number of likes for the photo. A user's photo page is sorted by the number
+of likes in decending order. Photos of the same number of likes whill be sorted by the 
+timestamp in reverse chronological order.
+-------------------------------------------------------------------------------------------
+
+Story number and name: 7 - Favorite lists of photos for users
+Story points: 6
+Brief description to see the story in action:
+Click on a heart icon to favorite a photo. The icon will be disabled when a photo
+is favorited and there will be a word "favorited" next to the icon to incate that this photo 
+has been favorited by the user.
+Click on a link on the toolbar labelled "Favorites" and view a list of photos the user has 
+favorited. Each photo is a small thumbnail. Clicking on the thumbnail cause a modal window 
+to open up displaying a larger version of the image. 
+Click on the far right X to unfavorite a photo.
+-------------------------------------------------------------------------------------------
+
+Story number and name: 8 - Sidebar list marks users with new activity
+Story points: 3
+Brief description to see the story in action:
+The user list on the nav sidebar will show the last activity done by each user, including
+phosted a photo, commented a photo, registered, logged in, logged out, like/unlike a photo,
+favorited/unfavorited a photo. The display will update automatically.
+-------------------------------------------------------------------------------------------
+
+Total Story Points:17
+
+
+Marketing Video URL (ensure permissions are set to public viewing):https://www.youtube.com/watch?v=ERyMLAnuN2Y
+
+Is it OK with you if we post your Marketing Video URL on the class discussion forum? Yes
+
+Any special instructions for Grading (should be easy to run app from new machine): None
+
+
+************************************ Example *******************
+* As an example for if you did only story 5 your file would look like:
+* 
+* Story number and name:  5 - Activity Feed
+* Story points:  4
+* Brief description to see the story in action:
+* Push the button labeled Activity on the toolbar and view the 10 most recent activities of the
+* current user.
+* 
+* Total Story Points: 4
+* 
+* Marketing Video URL (ensure permissions are set to public viewing): http://www.youtube.com ---
+* 
+* Is it OK with you if we post your Marketing Video URL on the class discussion forum? Yes
+* 
+* Instructions for Grading (should be easy to run app from new machine): None

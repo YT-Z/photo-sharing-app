@@ -1,0 +1,32 @@
+body{
+    font-family: Arial;
+    margin: 5px;
+    font-size: 12px;
+}
+.userComments_most_outter_container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.userComments_container{
+    padding: 5px;
+}
+.userComments_container_paper{
+    width: 30%;
+    height: auto;
+    margin: 5px;
+}
+.userComments_photo{
+    width: 100%;
+    height: auto;
+}
+.userComments_comment_header{
+    color: gray;
+    font-weight: bold;
+}
+.userComments_link{
+    text-decoration: none;
+    color: black;
+}
+.userComments_comment_line{
+    margin: 5px;
+}

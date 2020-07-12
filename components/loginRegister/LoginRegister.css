@@ -1,0 +1,61 @@
+.loginRegister_container{
+    width: 400px;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    box-shadow: 0 0  0 2px rgb(255,255,255), 0.3em 0.3em 1em rgba(0,0,0,0.3);
+    background-color: #ffffff;
+    margin-bottom: 15px;
+    margin-top: 30px;
+}
+
+form{
+    display: flex;
+    flex-wrap: wrap;
+}
+label{
+    font-weight: lighter;
+    font-size: 12px;
+    color: #363434;
+    margin-left: 5px;
+}
+
+input{
+    padding: 5px 10px;
+    border-radius: 5px;
+    outline:none;
+    border:0.5px solid gray;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+input.error{
+    border: 0.5px solid red;
+}
+.loginRegister_errorMessage{
+    color: red;
+    font-size: 10px;
+    display: relative;
+    margin-left: 5px;
+}
+
+
+.loginRegister_login_name, .loginRegister_password
+{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+
+.loginRegister_link_to_register{
+    margin-left: 20px;
+}
+.loginRegister_button{
+    width: 100%;
+}
